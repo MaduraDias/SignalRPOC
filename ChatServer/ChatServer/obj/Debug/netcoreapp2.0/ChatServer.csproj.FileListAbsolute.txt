@@ -1,0 +1,8 @@
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\bin\Debug\netcoreapp2.0\ChatServer.deps.json
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\bin\Debug\netcoreapp2.0\ChatServer.runtimeconfig.json
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\bin\Debug\netcoreapp2.0\ChatServer.runtimeconfig.dev.json
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\bin\Debug\netcoreapp2.0\ChatServer.dll
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\obj\Debug\netcoreapp2.0\ChatServer.csprojResolveAssemblyReference.cache
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\obj\Debug\netcoreapp2.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\obj\Debug\netcoreapp2.0\ChatServer.AssemblyInfoInputs.cache
+C:\Dev\GIT\SignalRPOC\ChatServer\ChatServer\obj\Debug\netcoreapp2.0\ChatServer.AssemblyInfo.cs
